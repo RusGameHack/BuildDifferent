@@ -49,7 +49,7 @@ finishBtn.addEventListener('click', ()=>{
         });
     }, 500);
     oldBoy();
-    index = 0; nextIndex = 0; nowOpen = 0;
+    index = 0; nextIndex = 1; nowOpen = 0;
 });
 
 

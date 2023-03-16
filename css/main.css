@@ -327,3 +327,12 @@ span.q {
     font-family: sans-serif;
     font-weight: 700;
 }
+.test-text img {
+    height: 22px;
+}
+.label-input{
+    margin-top: 7px;
+}
+.label-input input{
+    margin-top: 0;
+}
